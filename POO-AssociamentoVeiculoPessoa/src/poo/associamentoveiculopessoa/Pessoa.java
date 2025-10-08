@@ -35,7 +35,8 @@ public class Pessoa {
     public void comprarCarro(Carro c1){
         
         this.carro = c1; // Associa Carro com Pessoa
-        System.out.println("A pessoa: " + nome + " comprou o carro " + carro.modelo);
+        //teste
+        System.out.println("A pessoa  " + nome + " comprou o carro " + carro.modelo);
 
     }
 }
